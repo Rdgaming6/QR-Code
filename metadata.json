@@ -1,0 +1,6 @@
+{
+  "name": "FluxQR - Dynamic QR Code Generator SaaS",
+  "description": "Production-ready Dynamic QR Code Generator SaaS with permanent redirect URLs, live destination updates, scan analytics, and custom QR branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
